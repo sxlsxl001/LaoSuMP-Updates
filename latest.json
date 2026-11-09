@@ -1,0 +1,11 @@
+{
+  "version": "v2.0.3",
+  "notes": "更新到了免费的 GitHub 云端托管，移除了腾讯云限制。\n1. 修复了已知问题\n2. 优化了播放体验",
+  "pub_date": "2026-11-09T08:10:43.942Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcTZaVC9UcTBVQVpuSUZZTFpIZ1Z3MXFocW1nWFZVMWFOQTk0UzUrMTJTcE96dzVDWnJIN09JdDJIUUdmclQzRmFPWGRUeTlTL2lGQWpnQVBBaXhBbllRSmhrVE0rSVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjExODQzCWZpbGU6TGFvU3UgTWVkaWEgUGxheWVyXzIuMC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoyLjAuMwo0bnZBZkwrT0xTU3FhRXlka1NmWGVGRVczWTZXOWpDaE5Idms0R29LNG9Za1RUSXJBTVFpbVRLeG9iR3VSK3RzRWg2MDdpOVdoa0x1SFEyRS9MdjJBdz09Cg==",
+      "url": "https://github.com/sxlsxl001/LaoSuMP-Updates/releases/download/v2.0.3/LaoSu_Media_Player_2.0.3_x64-setup.exe"
+    }
+  }
+}
